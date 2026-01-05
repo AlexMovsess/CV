@@ -11,7 +11,7 @@ cv:
       username: AlexMovsess
   sections:
     PROFIL:
-      - 'Curieux de nature et passionné, je recherche un **stage de six mois** en **Intelligence Artificielle** à partir de **septembre 2025**, pour appliquer mes connaissances en intelligence artificielle à des projets porteurs de sens et à impact positif.'
+      - Ingénieur spécialisé en **Intelligence Artificielle** et **Machine Learning**, disponible à partir de **février 2026**, motivé par le développement de solutions IA performantes et à impact positif.'
     EDUCATION:
       - institution: Télécom Paris
         area: Intelligence Artificielle
@@ -45,30 +45,28 @@ cv:
           - '**Cours suivis :** Génie logiciel, Structures de données, Algorithmes'
           - '**Moyenne** : 3,2/4,0'
     EXPERIENCE:
-      - company: Clinique du sommeil ReVe
-        position: Stage Développeur Web
+      - company: OVHCloud
+        position: Ingénieur en Intelligence Artificielle (Stage)
         date:
-        start_date: 2023-06
-        end_date: 2023-11
-        location: Tournon-sur-Rhône, France
-        summary:
+        start_date: 2025-09
+        end_date: 2026-02
+        location: Lyon, France
+        summary: "*Recherche, benchmarking et déploiement de modèles de modération de texte basés sur des Transformers.*"
         highlights:
-          - Définition et mise en œuvre du cahier des charges techniques du site web en conformité avec la législation médicale
-          - Assurer la sécurité et le référencement du site web
-          - Suivre l’avancement du projet avec Jira pour garantir sa finalisation à la fin du stage
+          - Recherches sur l'état de l'art des modèles de modération de contenu, écriture d'un rapport et d'articles de blog
+          - Benchmarking et comparaison de modèles open-source avec MLFlow
+          - Mise en production de modèles de modération de contenu avec Docker et FastAPI
+          - 80% de réduction d'efficacité des attaques adversariales sur les modèles de génération de texte 
       - company: Dassault Systèmes
-        position: Stage Développeur Full-Stack
+        position: Développeur Full-Stack (stage)
         date:
         start_date: 2022-02
         end_date: 2022-08
         location: Vélizy-Villacoublay, France
-        summary:
+        summary: "*Travail collaboratif sur une simulation de process CI/CD multijoueur réalisée avec ExtJS, PHP, MySQL en agile*"
         highlights:
-          - Travail collaboratif sur une simulation multijoueur réalisée avec ExtJS, PHP, MySQL
-          - Méthodologie agile, sprints hebdomadaires et bilans
           - Définition des spécifications via des diagrammes UML
-          - Refactorisation et débogage du code, rédaction de tests unitaires
-          - Rédaction de documentation et transmission du projet à l'équipe suivante
+          - Refactorisation et débogage du code, rédaction de tests unitaires, POC
     PROJETS:
       - name: '[Extraction de mots-clés et de résumés en TAL]'
         date: 
@@ -103,14 +101,14 @@ cv:
       - label: '*Programmation*'
         details: '**Python**, **Java**, **Git**, **Réseaux de neurones**, **TAL**, **Vision par ordinateur**, **Transformers**, **XAI**'
       - label: '*Outils*'
-        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Docker**, **Linux**, **Jira**, **UML**'
+        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Docker**, **Linux**, **Jira**, **MLFlow**'
       - label: '*Langues*'
         details: '**Anglais** (Courant, TOEIC : 990/990), **Français** (Langue maternelle, Voltaire : 827/1000)'
       - label: '*Compétences interpersonnelles*'
         details: '**Travail en équipe**, **Communication**, **Résolution de problèmes**, **Adaptabilité**, **Créativité**'
       - label: '*Concours informatiques*'
         details: 'Hackathon Hi!ParisFair, Advent Of Code 2024, Microsoft AI Skills Fest 2025'
-      - label: '*Centres d’intérêt*'
+      - label: "*Centres d'intérêt*"
         details: 'Musique, cinéma, plongée sous-marine, vélo'
 
       

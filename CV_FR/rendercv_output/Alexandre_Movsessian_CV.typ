@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Curieux de nature et passionné, je recherche un #strong[stage de six mois] en #strong[Intelligence Artificielle] à partir de #strong[septembre 2025], pour appliquer mes connaissances en intelligence artificielle à des projets porteurs de sens et à impact positif.]
+  content: [Ingénieur spécialisé en #strong[Intelligence Artificielle] et #strong[Machine Learning], disponible à partir de #strong[février 2026], motivé par le développement de solutions IA performantes et à impact positif.']
 )
 
 
@@ -541,22 +541,24 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Stage Développeur Web], Clinique du sommeil ReVe -- Tournon-sur-Rhône, France
+    #strong[Ingénieur en Intelligence Artificielle \(Stage\)], OVHCloud -- Lyon, France
   ],
   right-content: [
-    Juin 2023 – Nov 2023
+    Sept 2025 – Fév 2026
   ],
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Définition et mise en œuvre du cahier des charges techniques du site web en conformité avec la législation médicale],[Assurer la sécurité et le référencement du site web],[Suivre l’avancement du projet avec Jira pour garantir sa finalisation à la fin du stage],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Recherche, benchmarking et déploiement de modèles de modération de texte basés sur des Transformers.]])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Recherches sur l'état de l'art des modèles de modération de contenu, écriture d'un rapport et d'articles de blog],[Benchmarking et comparaison de modèles open-source avec MLFlow],[Mise en production de modèles de modération de contenu avec Docker et FastAPI],[80\% de réduction d'efficacité des attaques adversariales sur les modèles de génération de texte],)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Stage Développeur Full-Stack], Dassault Systèmes -- Vélizy-Villacoublay, France
+    #strong[Développeur Full-Stack \(stage\)], Dassault Systèmes -- Vélizy-Villacoublay, France
   ],
   right-content: [
     Fév 2022 – Août 2022
@@ -564,7 +566,9 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Travail collaboratif sur une simulation multijoueur réalisée avec ExtJS, PHP, MySQL],[Méthodologie agile, sprints hebdomadaires et bilans],[Définition des spécifications via des diagrammes UML],[Refactorisation et débogage du code, rédaction de tests unitaires],[Rédaction de documentation et transmission du projet à l'équipe suivante],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Travail collaboratif sur une simulation de process CI\/CD multijoueur réalisée avec ExtJS, PHP, MySQL en agile]])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Définition des spécifications via des diagrammes UML],[Refactorisation et débogage du code, rédaction de tests unitaires, POC],)
   ],
 )
 
@@ -633,7 +637,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[#emph[Outils]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[Matplotlib], #strong[Docker], #strong[Linux], #strong[Jira], #strong[UML]]
+  content: [#strong[#emph[Outils]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[Matplotlib], #strong[Docker], #strong[Linux], #strong[Jira], #strong[MLFlow]]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -649,7 +653,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[#emph[Centres d’intérêt]:] Musique, cinéma, plongée sous-marine, vélo]
+  content: [#strong[#emph[Centres d'intérêt]:] Musique, cinéma, plongée sous-marine, vélo]
 )
 
 

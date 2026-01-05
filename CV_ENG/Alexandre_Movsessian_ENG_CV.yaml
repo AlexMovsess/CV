@@ -11,7 +11,7 @@ cv:
       username: AlexMovsess
   sections:
     PROFILE:
-      - 'Naturally curious and passionate, I am seeking an **permanent position** as **Machine Learning Engineer** starting in **September 2025**, where I can apply my knowledge of artificial intelligence to meaningful projects with a positive impact.'
+      - '**Artificial Intelligence** and **Machine Learning Engineer**, available from **February 2026**, with a strong interest in designing and deploying high-performance AI solutions with positive impact.'
     EDUCATION:
       - institution: Télécom Paris
         area: Artificial Intelligence
@@ -45,30 +45,28 @@ cv:
           - '**Coursework:** Software engineering, Data Structures, Algorithms'
           - 'GPA: 3.2/4.0'
     EXPERIENCE:
-      - company: Sleep clinic ReVe
-        position: Web Developper Internship
+      - company: OVHCloud
+        position: Artificial Intelligence Engineer (Internship)
         date:
-        start_date: 2023-06
-        end_date: 2023-11
-        location: Tournon-sur-Rhône, France
-        summary:
+        start_date: 2025-09
+        end_date: 2026-02
+        location: Lyon, France
+        summary: "*Research, benchmarking and deployment of text moderation models based on Transformers.*"
         highlights:
-          - Definition and implementation of the website technical specifications in accordance with the medical legislation
-          - Ensure the safety and the Search Engine Optimization of the website
-          - Manage the progress of the project using Jira so that it is complete by the end of the Internship
+          - Research on the state-of-the-art of content moderation models, writing a report and blog articles
+          - Benchmarking and comparison of open-source models with MLFlow
+          - Deployment of content moderation models with Docker and FastAPI
+          - 80% reduction in adversarial attack effectiveness on text generation models
       - company: Dassault Systèmes
-        position: Full-Stack Developper Internship
+        position: Full-Stack Developer (Internship)
         date:
         start_date: 2022-02
         end_date: 2022-08
-        location: Velizy-Villacoublay, France
-        summary:
+        location: Vélizy-Villacoublay, France
+        summary: "*Collaborative work on a multiplayer CI/CD simulation made with ExtJS, PHP, MySQL in agile*"
         highlights:
-          - Collaborative work on a multiplayer simulation made with ExtJS, PHP, MySQL
-          - Agile methodology, weekly sprints and debriefs
-          - Definitions of specifications via UML diagrams
-          - Code refactoring and debug, redaction of unit tests
-          - Draft documentation and teach the intricacies of the project to the next team
+          - Definition of specifications via UML diagrams
+          - Code refactoring and debugging, writing unit tests, POC
     PROJECTS:
       - name: '[NLP Keywords and summary extraction]'
         date: 
@@ -103,7 +101,7 @@ cv:
       - label: '*Programming*'
         details: '**Python**, **Java**, **Git**, **Neural networks**, **NLP**, **Computer vision**, **Transformers**'
       - label: '*Tools*'
-        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Docker**, **Linux**, **Jira**, **UML**'
+        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Docker**, **Linux**, **Jira**, **MLFlow**'
       - label: '*Languages*'
         details: '**English** (Fluent, TOEIC: 990/990), **French** (Native, Voltaire 827/1000)'
       - label: '*Soft skills*'

@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Naturally curious and passionate, I am seeking an #strong[permanent position] as #strong[Machine Learning Engineer] starting in #strong[September 2025], where I can apply my knowledge of artificial intelligence to meaningful projects with a positive impact.]
+  content: [#strong[Artificial Intelligence] and #strong[Machine Learning Engineer], available from #strong[February 2026], with a strong interest in designing and deploying high-performance AI solutions with positive impact.]
 )
 
 
@@ -541,22 +541,24 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Web Developper Internship], Sleep clinic ReVe -- Tournon-sur-Rhône, France
+    #strong[Artificial Intelligence Engineer \(Internship\)], OVHCloud -- Lyon, France
   ],
   right-content: [
-    June 2023 – Nov 2023
+    Sept 2025 – Feb 2026
   ],
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Definition and implementation of the website technical specifications in accordance with the medical legislation],[Ensure the safety and the Search Engine Optimization of the website],[Manage the progress of the project using Jira so that it is complete by the end of the Internship],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Research, benchmarking and deployment of text moderation models based on Transformers.]])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Research on the state-of-the-art of content moderation models, writing a report and blog articles],[Benchmarking and comparison of open-source models with MLFlow],[Deployment of content moderation models with Docker and FastAPI],[80\% reduction in adversarial attack effectiveness on text generation models],)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Full-Stack Developper Internship], Dassault Systèmes -- Velizy-Villacoublay, France
+    #strong[Full-Stack Developer \(Internship\)], Dassault Systèmes -- Vélizy-Villacoublay, France
   ],
   right-content: [
     Feb 2022 – Aug 2022
@@ -564,7 +566,9 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Collaborative work on a multiplayer simulation made with ExtJS, PHP, MySQL],[Agile methodology, weekly sprints and debriefs],[Definitions of specifications via UML diagrams],[Code refactoring and debug, redaction of unit tests],[Draft documentation and teach the intricacies of the project to the next team],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Collaborative work on a multiplayer CI\/CD simulation made with ExtJS, PHP, MySQL in agile]])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Definition of specifications via UML diagrams],[Code refactoring and debugging, writing unit tests, POC],)
   ],
 )
 
@@ -633,7 +637,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[#emph[Tools]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[Matplotlib], #strong[Docker], #strong[Linux], #strong[Jira], #strong[UML]]
+  content: [#strong[#emph[Tools]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[Matplotlib], #strong[Docker], #strong[Linux], #strong[Jira], #strong[MLFlow]]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
