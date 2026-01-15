@@ -11,7 +11,7 @@ cv:
       username: AlexMovsess
   sections:
     PROFILE:
-      - '**Artificial Intelligence** and **Machine Learning Engineer**, available from **February 2026**, with a strong interest in designing and deploying high-performance AI solutions with positive impact.'
+      - '**Artificial Intelligence** and **Machine Learning Engineer**, available from **March 2026**, with a strong interest in designing and deploying high-performance AI solutions with positive impact.'
     EDUCATION:
       - institution: Télécom Paris
         area: Artificial Intelligence
@@ -150,7 +150,7 @@ design:
     use_icons_for_connections: false
     alignment: center
   section_titles:
-    type: with-parial-line
+    type: with-partial-line
     font_family: XCharter
     font_size: 1.4em
     bold: true
@@ -158,7 +158,6 @@ design:
     line_thickness: 0.5pt
     vertical_space_above: 0.55cm
     vertical_space_below: 0.3cm
-    line_type: with-full-line
   entries:
     date_and_location_width: 4.15cm
     left_and_right_margin: 0cm

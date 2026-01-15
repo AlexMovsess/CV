@@ -11,7 +11,7 @@ cv:
       username: AlexMovsess
   sections:
     PROFIL:
-      - Ingénieur spécialisé en **Intelligence Artificielle** et **Machine Learning**, disponible à partir de **février 2026**, motivé par le développement de solutions IA performantes et à impact positif.'
+      - Ingénieur spécialisé en **Intelligence Artificielle** et **Machine Learning**, disponible à partir de **Mars 2026**, motivé par le développement de solutions IA performantes et à impact positif.
     EDUCATION:
       - institution: Télécom Paris
         area: Intelligence Artificielle
@@ -99,9 +99,9 @@ cv:
           - Gestion d’équipes de bénévoles et de prestataires externes
     COMPETENCES:
       - label: '*Programmation*'
-        details: '**Python**, **Java**, **Git**, **Réseaux de neurones**, **TAL**, **Vision par ordinateur**, **Transformers**, **XAI**'
+        details: '**Python**, **JavaScript**, **Git**, **Réseaux de neurones**, **TAL**, **Vision par ordinateur**, **Transformers**, **XAI**'
       - label: '*Outils*'
-        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Docker**, **Linux**, **Jira**, **MLFlow**'
+        details: '**PyTorch**, **TensorFlow**, **Keras**, **Scikit-learn**, **Pandas**, **NumPy**, **LangChain**, **Docker**, **Linux**, **Jira**, **MLFlow**'
       - label: '*Langues*'
         details: '**Anglais** (Courant, TOEIC : 990/990), **Français** (Langue maternelle, Voltaire : 827/1000)'
       - label: '*Compétences interpersonnelles*'
@@ -151,7 +151,7 @@ design:
     use_icons_for_connections: false
     alignment: center
   section_titles:
-    type: with-parial-line
+    type: with-partial-line
     font_family: XCharter
     font_size: 1.4em
     bold: true
@@ -159,7 +159,6 @@ design:
     line_thickness: 0.5pt
     vertical_space_above: 0.55cm
     vertical_space_below: 0.3cm
-    line_type: with-full-line
   entries:
     date_and_location_width: 4.15cm
     left_and_right_margin: 0cm

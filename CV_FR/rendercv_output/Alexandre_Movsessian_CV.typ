@@ -17,7 +17,7 @@
 #let design-section-titles-bold = true
 #let design-section-titles-line-thickness = 0.5pt
 #let design-section-titles-font-size = 1.4em
-#let design-section-titles-type = "with-parial-line"
+#let design-section-titles-type = "with-partial-line"
 #let design-section-titles-vertical-space-above = 0.55cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [Ingénieur spécialisé en #strong[Intelligence Artificielle] et #strong[Machine Learning], disponible à partir de #strong[février 2026], motivé par le développement de solutions IA performantes et à impact positif.']
+  content: [Ingénieur spécialisé en #strong[Intelligence Artificielle] et #strong[Machine Learning], disponible à partir de #strong[Mars 2026], motivé par le développement de solutions IA performantes et à impact positif.]
 )
 
 
@@ -633,11 +633,11 @@
 
 
 #one-col-entry(
-  content: [#strong[#emph[Programmation]:] #strong[Python], #strong[Java], #strong[Git], #strong[Réseaux de neurones], #strong[TAL], #strong[Vision par ordinateur], #strong[Transformers], #strong[XAI]]
+  content: [#strong[#emph[Programmation]:] #strong[Python], #strong[JavaScript], #strong[Git], #strong[Réseaux de neurones], #strong[TAL], #strong[Vision par ordinateur], #strong[Transformers], #strong[XAI]]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[#emph[Outils]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[Matplotlib], #strong[Docker], #strong[Linux], #strong[Jira], #strong[MLFlow]]
+  content: [#strong[#emph[Outils]:] #strong[PyTorch], #strong[TensorFlow], #strong[Keras], #strong[Scikit-learn], #strong[Pandas], #strong[NumPy], #strong[LangChain], #strong[Docker], #strong[Linux], #strong[Jira], #strong[MLFlow]]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

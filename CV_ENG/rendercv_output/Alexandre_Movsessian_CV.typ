@@ -17,7 +17,7 @@
 #let design-section-titles-bold = true
 #let design-section-titles-line-thickness = 0.5pt
 #let design-section-titles-font-size = 1.4em
-#let design-section-titles-type = "with-parial-line"
+#let design-section-titles-type = "with-partial-line"
 #let design-section-titles-vertical-space-above = 0.55cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
@@ -465,7 +465,7 @@
 
 
 #one-col-entry(
-  content: [#strong[Artificial Intelligence] and #strong[Machine Learning Engineer], available from #strong[February 2026], with a strong interest in designing and deploying high-performance AI solutions with positive impact.]
+  content: [#strong[Artificial Intelligence] and #strong[Machine Learning Engineer], available from #strong[March 2026], with a strong interest in designing and deploying high-performance AI solutions with positive impact.]
 )
 
 
