@@ -558,7 +558,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Développeur Full-Stack \(stage\)], Dassault Systèmes -- Vélizy-Villacoublay, France
+    #strong[Développeur Full-Stack \(Stage\)], Dassault Systèmes -- Vélizy-Villacoublay, France
   ],
   right-content: [
     Fév 2022 – Août 2022

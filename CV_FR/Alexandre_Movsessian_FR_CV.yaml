@@ -58,7 +58,7 @@ cv:
           - Mise en production de modèles de modération de contenu avec Docker et FastAPI
           - 80% de réduction d'efficacité des attaques adversariales sur les modèles de génération de texte 
       - company: Dassault Systèmes
-        position: Développeur Full-Stack (stage)
+        position: Développeur Full-Stack (Stage)
         date:
         start_date: 2022-02
         end_date: 2022-08
